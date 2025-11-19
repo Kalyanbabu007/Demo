@@ -32,8 +32,7 @@ public class Main {
 	}
 	
 }
-
-public class HonaiTower {
+class HonaiTower {
 	Scanner s=new Scanner(System.in);
 	int[][] a=new int[3][];
 	int count=0;
