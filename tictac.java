@@ -1,6 +1,6 @@
 package tictac;
 import java.util.Scanner;
-public class tictac {
+public class Main {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		char p1=' ';
@@ -185,3 +185,4 @@ public class tictac {
 		}
 	}
 }
+
